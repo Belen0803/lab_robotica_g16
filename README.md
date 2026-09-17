@@ -13,4 +13,3 @@ The repository also contains a set of notebooks to guide you through each of the
 - [Practical Session 6: Hardware deployment with the Turtlebot3 Burger](https://colab.research.google.com/github/jescap/lab_robotica/blob/main/notebooks/LR_Practica_06.ipynb)
 
  
-"# lab_robotica_g16" 
