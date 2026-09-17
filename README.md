@@ -1,6 +1,6 @@
 # Laboratorio de Robótica (4º GIERM)
 
-In this repository, students will find the required files to complete the course on mobile robotics.
+AAAAAAIn this repository, students will find out who is the best. The required files to complete the course on mobile robotics.
 
 The repository also contains a set of notebooks to guide you through each of the practical sessions:
 
